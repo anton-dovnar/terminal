@@ -10,7 +10,6 @@ return {
         },
       })
       -- Uncomment one to use as default:
-      -- vim.cmd("colorscheme github_dark_default")
       -- vim.cmd("colorscheme github_light_default")
     end,
   },
@@ -25,8 +24,8 @@ return {
         disable_float_background = true, -- optional: makes popups transparent
         disable_italics = false,
       })
-
-      vim.cmd("colorscheme rose-pine")
+      -- Uncomment one to use as default:
+      -- vim.cmd("colorscheme rose-pine")
     end,
   },
 }
